@@ -59,7 +59,7 @@ This is a Maven Project. Using Eclipse we will run this project.
 Step 1 - Checkout the project and move inside.
 
  ```
-$ git clone https://github.com/<your-user>/employee-management
+$ git clone https://github.com/shreyansh21996/employee_management.git
 ```
 
 Step 2 - Navigate into the folder  
